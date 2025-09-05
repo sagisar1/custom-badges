@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="53" height="20" role="img" aria-label="nmap">
-  <title>nmap</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="20" role="img" aria-label="Nmap">
+  <title>Nmap</title>
   <linearGradient id="s" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
@@ -393,6 +393,6 @@
 <text xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5584);fill-opacity:1;stroke:none;stroke-width:1.86042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" x="216.62567" y="207.54756" id="text2742"><tspan dx="0 0 0 0 -5.8992801" sodipodi:role="line" id="tspan2744" x="216.62567" y="207.54756" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.301px;line-height:100%;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5584);fill-opacity:1;stroke:none;stroke-width:1.86042;stroke-miterlimit:4;stroke-dasharray:none">NMAP.ORG</tspan></text>
 
   </g>
-  <text aria-hidden="true" x="35" y="15" fill="#010101" fill-opacity=".3" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">nmap</text>
-  <text x="35" y="14" fill="white" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">nmap</text>
+  <text aria-hidden="true" x="35" y="15" fill="#010101" fill-opacity=".3" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">Nmap</text>
+  <text x="35" y="14" fill="white" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">Nmap</text>
 </svg>
